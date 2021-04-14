@@ -1,1 +1,1 @@
-# Titanic
+# Titanic exercise from kaggle website
